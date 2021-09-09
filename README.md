@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @WitheringWillow
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Java, Python, and improving my skills in C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can find me on Discord @WitheringWillow#1629
+- 📫 You can find me on Discord @WitheringWillow#1629 but I won't respond ;)
 
 <!---
 WitheringWillow/WitheringWillow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
