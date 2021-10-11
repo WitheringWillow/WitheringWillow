@@ -1,4 +1,4 @@
 - Hi, I’m @WitheringWillow
-- I’m currently learning **Java**, **Python**, and improving my skills in **C++**
+- I’m currently learning **Java**, **Python**, and want to work on improving my skills in **C++**
 - You can find me on Discord @WitheringWillow#1629 but I won't respond :D
 - I love running, messing around with tech, and different types of art!
