@@ -1,5 +1,4 @@
 - Hi, I’m @WitheringWillow
-- I’m currently working on **Java**
+- I’m currently working on **Stuff**
 - I know **C**, **Java** and **Python**
-- You can find me on Discord @awatundra but I won't respond :D
 - I love running, messing around with tech, and different types of art!
